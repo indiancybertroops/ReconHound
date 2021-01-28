@@ -52,7 +52,7 @@ do
         "Ip To Location")
             echo "Enter IP Address"
             read ip 
-            lynx -dump http://ipinfo.io/$ip/geo
+            lynx -dump https://ip-api.com/#$ip
             echo ""
             ;;
         "Traceroute")
