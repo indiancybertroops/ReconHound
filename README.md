@@ -77,7 +77,8 @@ Press Enter And Follow Commad Given In Readme.md File
 # Youtube Channel
 https://youtube.com/c/indiancybertroops
 # Github Status
-![Github Stats](https://github-readme-stats.vercel.app/api?username=indiancybertroops&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+[![Stats](https://github-stats-alpha.vercel.app/api/?username=indiancybertroops&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/indiancybertroops "Stats")<br>
+
 # Contact Us 
 https://indiebook.in/indiancybertroops
 https://instagram.com/indiancybertroops
