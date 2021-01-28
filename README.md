@@ -1,5 +1,5 @@
 # ReconHound
-![GitHub repo size](https://img.shields.io/github/indiancybertroops/ReconHound/README-template.md)
+![GitHub repo size](https://img.shields.io/github/repo-size/ReconHound/README-template.md)
 
 ReconHound is Best OSINT Tool For Enumeration
 
