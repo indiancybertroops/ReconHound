@@ -14,7 +14,7 @@ Indiebook:@indiancybertroops
 EOF
 echo ""
 PS3='root@Recon-Hound:'
-options=( "Zone Transfer" "DNS Lookup" "Port Scan" "HTTP Header Detector" "Link Grabber" "Ip To Location" "Traceroute" "Reverse Ip Lookup" "Subdomain Finder" "Host Search" "ASN Lookup" "Exit"
+options=( "Zone Transfer" "DNS Lookup" "Port Scan" "HTTP Header Detector" "Link Grabber" "Ip To Location" "Traceroute" "Reverse Ip Lookup" "Host Search" "ASN Lookup" "Exit"
 )
 select opt in "${options[@]}"
 do
