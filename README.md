@@ -5,17 +5,27 @@ ReconHound is Best OSINT Tool For Enumeration We've Given 10 Different Type Of E
 Features:
 
 >Easy to install
+
 >Easy to use
+
 >Zone Transfer
+
 >DNS Lookup 
+
 >Port Scan
+
 >HTTP Header Detector
+
 >Link Grabber
+
 >Ip To Location
+
 >Traceroute
+
 >Reverse Ip Lookup
->Subdomain Finder
+
 >Host Search 
+
 >ASN Lookup
 # Installation :
 > clone via git clone
@@ -32,7 +42,13 @@ chmod +x *
 ```
 ./setup
 ```
-
+## For Kali Linux And Parrot 
+Run As Root 
+```
+sudo bash
+```
+Enter Root Password
+Press Enter And Follow Commad Given In Readme.md File
 # Youtube Channel
 https://youtube.com/c/indiancybertroops
 # Github Status
