@@ -1,2 +1,39 @@
 # ReconHound
 ReconHound is Best OSINT Tool For Enumeration We've Given 10 Different Type Of Enumeration Sub Tools Its Recon Framework Based On Api
+
+#
+Features:
+
+>Easy to install
+>Easy to use
+>Zone Transfer
+>DNS Lookup 
+>Port Scan
+>HTTP Header Detector
+>Link Grabber
+>Ip To Location
+>Traceroute
+>Reverse Ip Lookup
+>Subdomain Finder
+>Host Search 
+>ASN Lookup
+# Installation :
+> clone via git clone
+
+```
+git clone https://github.com/indiancybertroops/ReconHound
+```
+```
+cd ReconHound
+```
+```
+chmod +x *
+```
+```
+./setup
+```
+
+# Youtube Channel
+https://youtube.com/c/indiancybertroops
+# Github Status
+![Github Stats](https://github-readme-stats.vercel.app/api?username=indiancybertroops&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
