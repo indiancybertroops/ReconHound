@@ -74,9 +74,7 @@ sudo bash
 ```
 Enter Root Password
 Press Enter And Follow Commad Given In Readme.md File
-# Youtube Channel <p> <a href="https://www.youtube.com/c/indiancybertroops">
-    <img align="left" alt="Indian Cyber Troops YouTube" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/youtube.svg" />
-  </a></p> 
+# Youtube Channel 
 https://youtube.com/c/indiancybertroops
 
 # Github Status
