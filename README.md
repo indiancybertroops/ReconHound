@@ -42,6 +42,9 @@ chmod +x *
 ```
 ./setup
 ```
+```
+./reconhound
+```
 ## For Kali Linux And Parrot 
 Run As Root 
 ```
