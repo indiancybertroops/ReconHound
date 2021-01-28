@@ -74,11 +74,17 @@ sudo bash
 ```
 Enter Root Password
 Press Enter And Follow Commad Given In Readme.md File
-# Youtube Channel
+# Youtube Channel<a href="https://www.youtube.com/c/indiancybertroops">
+    <img align="left" alt="Indian Cyber Troops YouTube" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/youtube.svg" />
+  </a>
 https://youtube.com/c/indiancybertroops
 # Github Status
 [![Stats](https://github-stats-alpha.vercel.app/api/?username=indiancybertroops&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/indiancybertroops "Stats")<br>
 
 # Contact Us 
+### Indiebook 
 https://indiebook.in/indiancybertroops
+### Instagram
 https://instagram.com/indiancybertroops
+### Telegram 
+https://t.me/indiancybertroops
