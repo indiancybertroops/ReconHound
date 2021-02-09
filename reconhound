@@ -52,7 +52,7 @@ do
         "Ip To Location")
             echo "Enter IP Address"
             read ip 
-            lynx -dump https://api.hackertarget.com/geoip/?q=$IP
+            lynx -dump https://api.hackertarget.com/geoip/?q=$site
             echo ""
             ;;
         "Traceroute")
