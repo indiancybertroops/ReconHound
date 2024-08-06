@@ -14,7 +14,7 @@ Indiebook:@indiancybertroops
 EOF
 echo ""
 PS3='root@Recon-Hound:'
-options=( "Zone Transfer" "Google Analytics Reverse Lookup" "DNS Lookup" "Port Scan" "HTTP Header Detector" "Link Grabber" "Ip To Location" "Traceroute" "Reverse Ip Lookup" "Host Search" "ASN Lookup" "Exit"
+options=( "Zone Transfer" "Google Ads Analytics Reverse Lookup" "DNS Lookup" "Port Scan" "HTTP Header Detector" "Link Grabber" "Ip To Location" "Traceroute" "Reverse Ip Lookup" "Host Search" "ASN Lookup" "Exit"
 )
 select opt in "${options[@]}"
 do
@@ -79,8 +79,8 @@ do
             lynx -dump https://api.hackertarget.com/aslookup/?q=$site
             echo ""
             ;;
-            "Google Analytics Reverse Lookup")
-            echo "Enter Google Analytics ID ex(UA-123456)"
+            "Google Ads Analytics Reverse Lookup")
+            echo "Enter Google Ads Analytics ID ex(UA-123456)"
             read site
             lynx -dump https://api.hackertarget.com/analyticslookup/?q=$site
             echo ""
