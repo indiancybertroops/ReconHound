@@ -18,11 +18,11 @@ ReconHound is Best OSINT Tool For Enumeration
 
 We've Given 10 Different Type Of Enumeration Sub Tools 
 
-I'ts Recon Framework Based On Api
+I'ts Recon Framework Based On Multiple Apis
 Fastest Enumeration Tool
 ### Team Indian Cyber Troops:
 >Created By : Ashiiii(Cipher)
->Modified By: K. Sharma 
+>Modified By: K. Sharma
 
 # Features:
 
@@ -49,6 +49,8 @@ Fastest Enumeration Tool
 >Host Search 
 
 >ASN Lookup
+
+>Google Ads Analytics Reverse Lookup   (Added In Ver 3 Update)
 # Installation :
 > clone via git clone
 
@@ -74,6 +76,11 @@ sudo bash
 ```
 Enter Root Password
 Press Enter And Follow Commad Given In Readme.md File
+### update V 3.0
+>Added Google Ads Analytics Reverse Lookup
+### Update V 4.0 (Coming Soon)
+>Subdomain Finder
+>Whoid lookup (without Api Key free)
 # Youtube Channel 
 https://youtube.com/c/indiancybertroops
 
